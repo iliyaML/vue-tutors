@@ -1,6 +1,8 @@
 # vue-tutors
 
-> A simple vue tutor app
+> A simple vue tutors app
+
+Demo: [Vue-Tutors](https://iliyaml.github.io/vue-tutors/)
 
 ## Build Setup
 
