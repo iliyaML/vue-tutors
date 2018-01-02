@@ -19,7 +19,7 @@ export default new Router({
     },
     {
       path: '/new',
-      name: 'new-',
+      name: 'new-tutor',
       component: NewTutor
     },
     {
